@@ -1,4 +1,4 @@
-Tibame LINE BOT 個人專題
+# Tibame LINE BOT 個人專題
 
 ### 解謎獲神兵@再戰江湖
 
