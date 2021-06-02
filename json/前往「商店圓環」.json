@@ -1,0 +1,133 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/001",
+  "altText": "前往「商店圓環」",
+  "baseSize": {
+    "width": 1040,
+    "height": 536
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 618,
+        "y": 489,
+        "width": 400,
+        "height": 37
+      },
+      "text": "宋玉致說道：您好！歡迎參訪大唐雙龍。商店圓環是幫會中心點，所有服務均圍繞著商店圓環。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 79,
+        "y": 156,
+        "width": 156,
+        "height": 74
+      },
+      "text": "前往「醫坊」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 295,
+        "y": 157,
+        "width": 185,
+        "height": 72
+      },
+      "text": "前往「練功房」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 540,
+        "y": 157,
+        "width": 156,
+        "height": 75
+      },
+      "text": "前往「客棧」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 80,
+        "y": 262,
+        "width": 158,
+        "height": 75
+      },
+      "text": "前往「衛尉寺」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 294,
+        "y": 261,
+        "width": 187,
+        "height": 76
+      },
+      "text": "前往「戶外牧場」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 539,
+        "y": 262,
+        "width": 158,
+        "height": 74
+      },
+      "text": "前往「櫃坊」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 79,
+        "y": 366,
+        "width": 158,
+        "height": 77
+      },
+      "text": "前往「郵驛」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 294,
+        "y": 365,
+        "width": 190,
+        "height": 77
+      },
+      "text": "前往「商店牌樓」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 540,
+        "y": 365,
+        "width": 157,
+        "height": 76
+      },
+      "text": "前往「僦櫃」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 6,
+        "y": 108,
+        "width": 199,
+        "height": 33
+      },
+      "text": "Look statue"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 696,
+        "y": 108,
+        "width": 170,
+        "height": 32
+      },
+      "text": "Look sign"
+    }
+  ]
+}
+]

@@ -1,0 +1,43 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/014",
+  "altText": "前往「躍馬橋」",
+  "baseSize": {
+    "width": 1040,
+    "height": 426
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 622,
+        "y": 387,
+        "width": 418,
+        "height": 39
+      },
+      "text": "洛其飛說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 328,
+        "y": 346,
+        "width": 79,
+        "height": 33
+      },
+      "text": "前往「商店牌樓」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 468,
+        "y": 349,
+        "width": 81,
+        "height": 31
+      },
+      "text": "前往「中央大道」"
+    }
+  ]
+}
+]

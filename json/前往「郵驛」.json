@@ -1,0 +1,33 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/016",
+  "altText": "前往「郵驛」",
+  "baseSize": {
+    "width": 1040,
+    "height": 313
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 602,
+        "y": 269,
+        "width": 438,
+        "height": 44
+      },
+      "text": "單琬晶說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 316,
+        "y": 230,
+        "width": 140,
+        "height": 35
+      },
+      "text": "前往「商店圓環」"
+    }
+  ]
+}
+]

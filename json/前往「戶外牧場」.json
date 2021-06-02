@@ -1,0 +1,43 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/023",
+  "altText": "前往「戶外牧場」",
+  "baseSize": {
+    "width": 1040,
+    "height": 477
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 600,
+        "y": 435,
+        "width": 430,
+        "height": 40
+      },
+      "text": "尚秀芳說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 317,
+        "y": 405,
+        "width": 95,
+        "height": 36
+      },
+      "text": "前往「商店圓環」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 86,
+        "y": 186,
+        "width": 225,
+        "height": 49
+      },
+      "text": "List"
+    }
+  ]
+}
+]

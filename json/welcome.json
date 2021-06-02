@@ -1,0 +1,45 @@
+﻿[
+{
+  "type": "text",
+  "text": "歡迎來到再戰江湖！\n您已進入「大唐雙龍」幫會區域。\n請點選「圖片」裡「關鍵字」獲得下一步動作。\n"
+},
+{
+  "type": "text",
+  "text": "請尋找「大唐雙龍幫主」後回答1個問題，並登入遊戲：\n210.59.236.38:7788\n即可獲得由「大唐雙龍」提供之神兵利器或丹藥！數量有限！\n註：答案藏在幫會區域。\nFacebook：\nhttps://www.facebook.com/wfmudorg"
+},
+{
+  "type": "text",
+  "text": "直接「上傳個人照片」完成辨識我是大明星。"
+},
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/005",
+  "altText": "前往「大唐梁都」",
+  "baseSize": {
+    "width": 1040,
+    "height": 728
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 630,
+        "y": 651,
+        "width": 410,
+        "height": 77
+      },
+      "text": "寇仲說道：可「上傳個人照片」辨識明星臉；輸入「recall」，可回到「大唐梁都」；輸入「clan help」可獲得幫會訊息；輸入「map」可獲得區域地圖；「商店」可購買幫會成員名單。點選「圖片」出口「方向」可前往其他區域。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 327,
+        "y": 631,
+        "width": 131,
+        "height": 74
+      },
+      "text": "前往「中央大道」"
+    }
+  ]
+}
+]

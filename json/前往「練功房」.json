@@ -1,0 +1,63 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/008",
+  "altText": "前往「練功房」",
+  "baseSize": {
+    "width": 1040,
+    "height": 221
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 625,
+        "y": 179,
+        "width": 415,
+        "height": 42
+      },
+      "text": "畢玄說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 320,
+        "y": 136,
+        "width": 91,
+        "height": 38
+      },
+      "text": "前往「練武場」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 434,
+        "y": 135,
+        "width": 65,
+        "height": 37
+      },
+      "text": "前往「客棧」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 526,
+        "y": 136,
+        "width": 86,
+        "height": 36
+      },
+      "text": "前往「商店圓環」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 661,
+        "y": 137,
+        "width": 72,
+        "height": 35
+      },
+      "text": "前往「醫坊」"
+    }
+  ]
+}
+]

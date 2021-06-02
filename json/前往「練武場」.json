@@ -1,0 +1,43 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/010",
+  "altText": "前往「練武場」",
+  "baseSize": {
+    "width": 1040,
+    "height": 421
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 564,
+        "y": 388,
+        "width": 359,
+        "height": 33
+      },
+      "text": "李靖說道：您好！歡迎參訪大唐雙龍。「練武場館」目前擴建中，敬請期待。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 294,
+        "y": 352,
+        "width": 76,
+        "height": 30
+      },
+      "text": "「練武場館」整修中，請選擇其他方向。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 414,
+        "y": 350,
+        "width": 83,
+        "height": 32
+      },
+      "text": "前往「練功房」"
+    }
+  ]
+}
+]

@@ -1,0 +1,11 @@
+﻿[
+{
+  "type": "image",
+  "originalContentUrl": "https://storage.googleapis.com/img-linebot-babymlin/cmd/clan_member.jpg",
+  "previewImageUrl": "https://storage.googleapis.com/img-linebot-babymlin/cmd/clan_member.jpg"
+},
+{
+  "type": "text",
+  "text": "提示：圖片中可以找到幫主名稱，請注意幫會成員共有幾名。"
+}
+]

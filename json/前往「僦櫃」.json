@@ -1,0 +1,54 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/018",
+  "altText": "前往「僦櫃」",
+  "altText": "This is an imagemap",
+  "baseSize": {
+    "width": 1040,
+    "height": 452
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 605,
+        "y": 376,
+        "width": 428,
+        "height": 40
+      },
+      "text": "沈落雁說道：您好！歡迎參訪大唐雙龍。本處出售幫會成員名單。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 319,
+        "y": 345,
+        "width": 160,
+        "height": 32
+      },
+      "text": "前往「商店圓環」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 30,
+        "y": 413,
+        "width": 295,
+        "height": 39
+      },
+      "text": "似乎存放著幫會成員名單，可向老闆購買。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 87,
+        "y": 203,
+        "width": 357,
+        "height": 43
+      },
+      "text": "buy member list"
+    }
+  ]
+}
+]

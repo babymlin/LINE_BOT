@@ -1,0 +1,33 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/002",
+  "altText": "前往「櫃坊」",
+  "baseSize": {
+    "width": 1040,
+    "height": 579
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 351,
+        "y": 491,
+        "width": 110,
+        "height": 40
+      },
+      "text": "前往「商店圓環」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 299,
+        "y": 541,
+        "width": 483,
+        "height": 38
+      },
+      "text": "尉遲敬德說道：您好！歡迎參訪大唐雙龍。"
+    }
+  ]
+}
+]

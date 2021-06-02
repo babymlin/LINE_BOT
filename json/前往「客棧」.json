@@ -1,0 +1,43 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/017",
+  "altText": "前往「客棧」",
+  "baseSize": {
+    "width": 1040,
+    "height": 353
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 625,
+        "y": 313,
+        "width": 415,
+        "height": 40
+      },
+      "text": "榮姣姣說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 332,
+        "y": 269,
+        "width": 138,
+        "height": 44
+      },
+      "text": "前往「商店圓環」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 529,
+        "y": 274,
+        "width": 64,
+        "height": 37
+      },
+      "text": "前往「練功房」"
+    }
+  ]
+}
+]

@@ -1,0 +1,43 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/003",
+  "altText": "前往「衛尉寺」",
+  "baseSize": {
+    "width": 1040,
+    "height": 368
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 568,
+        "y": 330,
+        "width": 472,
+        "height": 38
+      },
+      "text": "師妃暄說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 296,
+        "y": 293,
+        "width": 93,
+        "height": 36
+      },
+      "text": "前往「商店圓環」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 625,
+        "y": 90,
+        "width": 238,
+        "height": 54
+      },
+      "text": "Help storage"
+    }
+  ]
+}
+]

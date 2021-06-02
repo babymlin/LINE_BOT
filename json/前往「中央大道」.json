@@ -1,0 +1,63 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/006",
+  "altText": "前往「中央大道」",
+  "baseSize": {
+    "width": 1040,
+    "height": 508
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 591,
+        "y": 478,
+        "width": 449,
+        "height": 30
+      },
+      "text": "秦超文說道：您好！歡迎參訪大唐雙龍。西北方與東北方各有二座府邸。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 310,
+        "y": 419,
+        "width": 136,
+        "height": 48
+      },
+      "text": "東北方SHASHA府邸整建中，暫不開放，請選擇其他方向。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 471,
+        "y": 423,
+        "width": 84,
+        "height": 46
+      },
+      "text": "前往「躍馬橋」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 576,
+        "y": 423,
+        "width": 86,
+        "height": 41
+      },
+      "text": "前往「大唐梁都」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 709,
+        "y": 427,
+        "width": 140,
+        "height": 39
+      },
+      "text": "前往「BABYM府」"
+    }
+  ]
+}
+]

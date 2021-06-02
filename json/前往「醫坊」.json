@@ -1,0 +1,43 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/015",
+  "altText": "前往「醫坊」",
+  "baseSize": {
+    "width": 1040,
+    "height": 392
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 351,
+        "y": 352,
+        "width": 412,
+        "height": 40
+      },
+      "text": "水魅說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 364,
+        "y": 302,
+        "width": 158,
+        "height": 40
+      },
+      "text": "前往「商店圓環」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 590,
+        "y": 304,
+        "width": 69,
+        "height": 37
+      },
+      "text": "前往「練功房」"
+    }
+  ]
+}
+]

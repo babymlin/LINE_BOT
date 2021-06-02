@@ -1,0 +1,43 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/007",
+  "altText": "前往「BABYM府」",
+  "baseSize": {
+    "width": 1040,
+    "height": 507
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 594,
+        "y": 473,
+        "width": 446,
+        "height": 34
+      },
+      "text": "尚秀芳說道：您好！歡迎參訪大唐雙龍。"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 315,
+        "y": 436,
+        "width": 75,
+        "height": 28
+      },
+      "text": "前往「正廳」"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 445,
+        "y": 438,
+        "width": 140,
+        "height": 28
+      },
+      "text": "前往「中央大道」"
+    }
+  ]
+}
+]

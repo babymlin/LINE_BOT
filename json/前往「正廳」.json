@@ -1,0 +1,33 @@
+﻿[
+{
+  "type": "imagemap",
+  "baseUrl": "https://storage.googleapis.com/img-linebot-babymlin/imagemap/022",
+  "altText": "前往「正廳」",
+  "baseSize": {
+    "width": 1040,
+    "height": 166
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 691,
+        "y": 121,
+        "width": 229,
+        "height": 50
+      },
+      "text": "傅采林說道：恭喜您，在下便是「大唐雙龍幫主」。\n如想獲得神兵利器或丹藥，僅需回答一個問題。\n準備好了可輸入「challenge」。\n注意!!!答題機會只有3次!!!"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 368,
+        "y": 74,
+        "width": 660,
+        "height": 41
+      },
+      "text": "前往「BABYM府」"
+    }
+  ]
+}
+]

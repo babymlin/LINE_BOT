@@ -1,0 +1,22 @@
+﻿[
+{
+  "type": "template",
+  "altText": "請確認是否開始挑戰",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "message",
+        "label": "是",
+        "text": "讓我們開始挑戰吧！"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "下次再開始好了。"
+      }
+    ],
+    "text": "是否開始進行最終考驗！"
+  }
+}
+]
