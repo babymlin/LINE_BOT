@@ -4,7 +4,7 @@
 
 ### 服務部署Google Cloud Run(Serverless)
 
-### 含Cloud Storage Logging 分析	
+### 含Cloud Logging 分析	
 
 #### ![632opizh](https://i.imgur.com/tuO64vY.png)
 
