@@ -2,9 +2,9 @@
 
 ### 解謎獲神兵@再戰江湖
 
-### 系統掛載Google Cloud
+### 服務部署Google Cloud Run(Serverless)
 
-### 含Logging 分析	
+### 含Cloud Storage Logging 分析	
 
 #### ![632opizh](https://i.imgur.com/tuO64vY.png)
 
