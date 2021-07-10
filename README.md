@@ -4,7 +4,7 @@
 
 ### 服務部署Google Cloud Run(Serverless)
 
-### 含Cloud Logging 分析(紀錄LINE Plat溝通資料)	
+### 含Cloud Logging 分析(紀錄LINE Platform溝通資料)	
 
 #### ![632opizh](https://i.imgur.com/tuO64vY.png)
 
