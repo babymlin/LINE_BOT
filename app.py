@@ -116,7 +116,7 @@ def reply_text_and_get_user_profile(event):
     # 設定用戶資料json
     user_dict={
 	"user_id":line_user_profile.user_id,
-	"picture_url": f"https://storage.googleapis.com/{bucket_name}/destination_blob_name",
+	"picture_url": f"https://storage.googleapis.com/{bucket_name}/{destination_blob_name}",
 	"display_name": line_user_profile.display_name,
 	"status_message": line_user_profile.status_message
       }
